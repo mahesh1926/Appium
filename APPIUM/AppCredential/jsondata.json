@@ -1,0 +1,11 @@
+{
+
+"deviceName":"Galaxy A50",
+"platformname":"Android",
+"platformversion":"11",
+"automationname":"Appium",
+"apppackage":"com.androidsample.generalstore",
+"appactivity":".SplashActivity",
+"noreset":"true"
+
+}
